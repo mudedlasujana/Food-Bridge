@@ -1,0 +1,47 @@
+[
+  {
+    "id": "req_001",
+    "donation_id": "don_004",
+    "ngo_id": "usr_ngo_001",
+    "ngo_name": "Arun Kumar",
+    "ngo_org": "Hope & Hunger Food Bank",
+    "ngo_phone": "+91 98765 88990",
+    "pickup_time_estimate": "2026-10-30 15:32",
+    "transport_type": "Insulated Van with Hot Boxes",
+    "beneficiary_count": 35,
+    "notes": "Will distribute to evening shelter home near MG Road.",
+    "status": "Requested",
+    "requested_at": "2026-10-30 12:32:22",
+    "completed_at": null
+  },
+  {
+    "id": "req_002",
+    "donation_id": "don_005",
+    "ngo_id": "usr_ngo_002",
+    "ngo_name": "Dr. Sunita Rao",
+    "ngo_org": "Anna Raksha Seva Foundation",
+    "ngo_phone": "+91 98765 88991",
+    "pickup_time_estimate": "2026-10-30 16:32",
+    "transport_type": "Volunteer Cargo Car",
+    "beneficiary_count": 50,
+    "notes": "For community kitchen distribution in Jayanagar cluster.",
+    "status": "Accepted",
+    "requested_at": "2026-10-30 11:32:22",
+    "completed_at": null
+  },
+  {
+    "id": "req_003",
+    "donation_id": "don_006",
+    "ngo_id": "usr_ngo_001",
+    "ngo_name": "Arun Kumar",
+    "ngo_org": "Hope & Hunger Food Bank",
+    "ngo_phone": "+91 98765 88990",
+    "pickup_time_estimate": "2026-10-28 15:32",
+    "transport_type": "Insulated Van",
+    "beneficiary_count": 60,
+    "notes": "Food received in excellent condition and served at night shelter.",
+    "status": "Completed",
+    "requested_at": "2026-10-28 12:32:22",
+    "completed_at": "2026-10-28 16:32:22"
+  }
+]
